@@ -7,7 +7,7 @@ Python-based ROSE Online asset extraction utility - probably the fastest to ever
 Your system needs a few utilities in order to run all of the conversions. Below is a
 full list of requirements and below it are platform-specific package names for them.
 
-If your platform isn't listed, ensure the following are available an on your PATH.
+If your platform isn't listed, ensure the following are available and on your PATH.
 
 - a C compiler aliased to `cc` (usually the default)
 - [Ninja](https://ninja-build.org)
