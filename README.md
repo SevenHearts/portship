@@ -1,6 +1,6 @@
 # Portship
 
-Python-based ROSE Online asset extraction utility.
+Python-based ROSE Online asset extraction utility - probably the fastest to ever exist.
 
 ## Requirements
 
