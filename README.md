@@ -62,6 +62,8 @@ $ python setup.py install
 To use Portship, locate the `.IDX` file in your ROSE installation directory (usually called `index.idx` or `data.idx` - there will be only one)
 and create a directory where you want the files to be generated.
 
+> **NOTE:** Some updated versions of the game have started hiding the .idx file inside of `znzin.dll`. If your IDX file is showing up as corrupted, just pass the path to `znzin.dll` instead - it'll Just Work. Don't ask me why they decided to do this.
+
 Once complete, run the following:
 
 ```console
