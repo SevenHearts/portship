@@ -19,7 +19,7 @@ If your platform isn't listed, ensure the following are available and on your PA
 $ apt-get install ninja-build build-essential
 
 ### Ubuntu11.10+ ###
-$ apt-get install python-pgmagick
+$ apt-get install python3-pgmagick
 
 ### Ubuntu10.04+ ###
 $ apt-get install libgraphicsmagick++1-dev
